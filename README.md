@@ -3,6 +3,25 @@ Plataforma de Microservicios con Java, SpringBoot, MongoDB
 
 ![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/9a69ba30-e8a4-40d3-ad9e-351cede0cd9b)
 
+![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/09457f67-6bfc-4293-99c2-8d12254ac473)
+
+Spring Cloud provides tools for developers to quickly build some of the common patterns in distributed systems (e.g. configuration management, service discovery, circuit breakers, intelligent routing, micro-proxy, control bus, one-time tokens, global locks, leadership election, distributed sessions, cluster state). Coordination of distributed systems leads to boiler plate patterns, and using Spring Cloud developers can quickly stand up services and applications that implement those patterns. They will work well in any distributed environment, including the developer’s own laptop, bare metal data centres, and managed platforms such as Cloud Foundry.
+
+# Features
+Spring Cloud focuses on providing good out of box experience for typical use cases and extensibility mechanism to cover others.
+
+Distributed/versioned configuration
+Service registration and discovery
+Routing
+Service-to-service calls
+Load balancing
+Circuit Breakers
+Global locks
+Leadership election and cluster state
+Distributed messaging
+
+
+
 ![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/a6cd4500-1938-416c-b6ce-e97a995a51d2)
 
 ![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/efca8747-5238-4003-bc06-0abf0a4a7e4f)

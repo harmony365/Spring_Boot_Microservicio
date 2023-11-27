@@ -10,15 +10,16 @@ Spring Cloud provides tools for developers to quickly build some of the common p
 # Features
 Spring Cloud focuses on providing good out of box experience for typical use cases and extensibility mechanism to cover others.
 
-Distributed/versioned configuration
-Service registration and discovery
-Routing
-Service-to-service calls
-Load balancing
-Circuit Breakers
-Global locks
-Leadership election and cluster state
-Distributed messaging
+- Distributed/versioned configuration
+- Service registration and discovery
+- Routing
+- Service-to-service calls
+- Load balancing
+- Circuit Breakers
+- Global locks
+- Leadership election and cluster state
+- Distributed messaging
+- 
 
 
 

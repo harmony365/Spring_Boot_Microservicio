@@ -61,10 +61,10 @@
 			<version>3.0.4</version>
 		</dependency>
 
-
 	</dependencies>
 
 	<build>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

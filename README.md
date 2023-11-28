@@ -49,3 +49,10 @@ Spring Cloud focuses on providing good out of box experience for typical use cas
 
 ![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/93998bfb-3dd1-4cee-873e-4d2f7f33e461)
 
+
+![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/129651ac-c9e1-4105-98f2-a665f1f80f9d)
+
+
+![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/4af048ad-d51f-4e0a-8271-60337df4b271)
+
+

@@ -51,3 +51,10 @@ Spring Cloud focuses on providing good out of box experience for typical use cas
 ![image](https://github.com/harmony365/Spring_Boot_Microservicio/assets/99802333/d303141e-3208-4fa0-9e21-07ae66739986)
 
 
+vault 
+vault server --dev --dev-root-token-id="00000000-0000-0000-0000-000000000000"
+llave 00000000-0000-0000-0000-000000000000
+
+keycloak
+docker run -p 9990:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:23.0.0 start-dev
+

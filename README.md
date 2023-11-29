@@ -55,6 +55,9 @@ vault
 vault server --dev --dev-root-token-id="00000000-0000-0000-0000-000000000000"
 llave 00000000-0000-0000-0000-000000000000
 
+# RABBITMQ CONFIGURATION
+# docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.12-management
+
 keycloak
 docker run -p 9990:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:23.0.0 start-dev
 

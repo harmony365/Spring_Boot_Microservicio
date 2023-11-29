@@ -60,4 +60,4 @@ llave 00000000-0000-0000-0000-000000000000
 
 keycloak
 docker run -p 9990:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:23.0.0 start-dev
-
+8bx8rPrW43WslBo6urRXlZ8ZQ6SC9TbX
